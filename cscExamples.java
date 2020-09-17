@@ -1,4 +1,4 @@
-public class cscExamples{
+	public class cscExamples{
 	int questionNo;
 	String category;
 	String text;
@@ -10,4 +10,10 @@ public class cscExamples{
 	public void setcategoryext(){
 	}
 	
+	
 }
+	
+	
+	
+	
+	
